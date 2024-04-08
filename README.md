@@ -2,8 +2,12 @@
   <a href="https://www.linkedin.com/in/jonehumphreys/"><img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://twitter.com/JonHumphreys16"><img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://medium.com/@jhumphreys89"><img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
+  <a href="https://stackoverflow.com/users/23721752/j-h"><img src="https://img.shields.io/badge/stackoverflow-red?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Medium Badge"/></a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=JHumphreys89&style=flat-square&color=red">
+  <a href=""><img src="https://komarev.com/ghpvc/?username=JHumphreys89&style=flat-square&color=red"></a>
+  <a href=""><img src="https://img.shields.io/badge/last.fm-red?logo=last.fm&style=flat-square&logoColor=white"></a>
+  <a href=""><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-red?&logo=buy-me-a-coffee&style=flat-square&logoColor=white"></a>
+
 
 </div>
 <div align="center">

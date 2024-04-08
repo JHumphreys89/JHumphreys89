@@ -57,6 +57,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JHumphreys89&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=EB5454&sideLabels=EB5454&currStreakLabel=EB5454&border=EB5454&ring=EB5454)](https://git.io/streak-stats)
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhumphreys89&hide_progress=true) -->
+
 <!--[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JHumphreys89)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ---

@@ -5,7 +5,7 @@
   <a href="https://stackoverflow.com/users/23721752/j-h"><img src="https://img.shields.io/badge/stackoverflow-red?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Medium Badge"/></a>
   <br>
   <a href=""><img src="https://komarev.com/ghpvc/?username=JHumphreys89&style=flat-square&color=red"></a>
-  <a href=""><img src="https://img.shields.io/badge/last.fm-red?logo=last.fm&style=flat-square&logoColor=white"></a>
+  <a href="https://www.last.fm/user/JHumphreys89"><img src="https://img.shields.io/badge/last.fm-red?logo=last.fm&style=flat-square&logoColor=white"></a>
   <a href="https://www.buymeacoffee.com/jhumphreys89"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-red?&logo=buy-me-a-coffee&style=flat-square&logoColor=white"></a>
 
 
@@ -19,7 +19,7 @@
 ### 🤓 Hi there!
 
 - 🔭 I’m currently working on multiple projects in my spare time. You can check them out yourself in my GitHub profile!
-- 🌱 I’m currently taking the time to learn more about JavaScript, Python, PowerShell and Terraform.
+- 🌱 Currently passionate with learning more about Terraform and scripting languages.
 - 📫 How to reach me: [github@jonhumphreys.com](mailto:github@jonhumphreys.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am ambidextrous.

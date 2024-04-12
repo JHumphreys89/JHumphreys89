@@ -72,3 +72,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [ServiceNow — Configuring the Record Preview in List View](https://jhumphreys89.medium.com/servicenow-configuring-the-record-preview-in-list-view-0777d90695c6?source=rss-ff4d9519c46a------2)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🎵 Recent Tunes:
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=JHumphreys89&bg_color=none&footer_style=wave)

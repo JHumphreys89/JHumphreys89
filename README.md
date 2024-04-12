@@ -6,7 +6,7 @@
   <br>
   <a href=""><img src="https://komarev.com/ghpvc/?username=JHumphreys89&style=flat-square&color=red"></a>
   <a href=""><img src="https://img.shields.io/badge/last.fm-red?logo=last.fm&style=flat-square&logoColor=white"></a>
-  <a href=""><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-red?&logo=buy-me-a-coffee&style=flat-square&logoColor=white"></a>
+  <a href="https://www.buymeacoffee.com/jhumphreys89"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-red?&logo=buy-me-a-coffee&style=flat-square&logoColor=white"></a>
 
 
 </div>

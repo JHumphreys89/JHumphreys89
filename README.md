@@ -19,9 +19,8 @@
 ### 🤓 Hi there!
 
 - 🔭 I’m currently working on multiple projects in my spare time. You can check them out yourself in my GitHub profile!
-- 🌱 Currently passionate with learning more about Terraform and scripting languages.
+- 🌱 Currently passionate with Currently passionate about full-stack development and automation, leveraging Python, JavaScript, HTML/CSS, and Shell/PowerShell scripting to build robust solutions. Always looking for the next language or framework that can introduce a better way to solve performance, security, or scale challenges.
 - 📫 How to reach me: [github@jonhumphreys.com](mailto:github@jonhumphreys.com)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am ambidextrous.
 
 ---

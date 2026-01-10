@@ -69,6 +69,7 @@
 ### ✍️ Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Use Podman to Setup and Manage a GitLab Self-Hosted Instance](https://jhumphreys89.medium.com/use-podman-to-setup-and-manage-a-gitlab-self-hosted-instance-f74f00b6aade?source=rss-ff4d9519c46a------2)
 - [Setting Up Windows Subsystem for Linux &lpar;WSL&rpar; and Podman for Development and Testing](https://jhumphreys89.medium.com/setting-up-windows-subsystem-for-linux-wsl-and-podman-for-development-and-testing-b889583d9226?source=rss-ff4d9519c46a------2)
 <!-- BLOG-POST-LIST:END -->
 
